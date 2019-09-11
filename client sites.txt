@@ -1,0 +1,37 @@
+<html>
+	<style type="text/css">
+	
+		html {
+			background-color: white;
+		}
+		
+		#center {
+		background: rgb(0,0,0);
+		margin: 0 auto;
+		}
+		
+		#center h1 {
+			font: 20px arial #000000;
+			text-transform: uppercase;
+			text-align: center;
+		}
+		
+		#center p {
+		font: 14px arial #000000;
+		}
+		
+	</style>
+	<body>
+		<div id="center">
+			<h1>Client Sites</h1>
+			<div id="heights">
+				<img src="C:\Users\student\Documents\GitHub\git-workshop\images\clientprev-heights.jpeg" >
+				<p>Heights Ateneo</p>
+			</div>
+			<div id="bluerep">
+				<img src="C:\Users\student\Documents\GitHub\git-workshop\images\clientprev-bluerep.jpeg" >
+				<p>Ateneo Blue Repertory</p>
+			</div>
+		</div>
+	</body>
+</html>
